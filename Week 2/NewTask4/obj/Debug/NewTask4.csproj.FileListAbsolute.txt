@@ -1,0 +1,7 @@
+C:\Users\пк\Desktop\PP2 C#\Week 2\NewTask4\bin\Debug\NewTask4.exe.config
+C:\Users\пк\Desktop\PP2 C#\Week 2\NewTask4\bin\Debug\NewTask4.exe
+C:\Users\пк\Desktop\PP2 C#\Week 2\NewTask4\bin\Debug\NewTask4.pdb
+C:\Users\пк\Desktop\PP2 C#\Week 2\NewTask4\obj\Debug\NewTask4.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\PP2 C#\Week 2\NewTask4\obj\Debug\NewTask4.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\PP2 C#\Week 2\NewTask4\obj\Debug\NewTask4.exe
+C:\Users\пк\Desktop\PP2 C#\Week 2\NewTask4\obj\Debug\NewTask4.pdb
