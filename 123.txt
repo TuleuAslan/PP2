@@ -1,0 +1,31 @@
+.exe i f
+.bat i f 
+.com i f 
+.js java script
+.cpp c++ fail
+.html html fails
+.php php fail  
+.lnk yarlik
+.fla animation adobe reader
+.drv driver 
+.mp3 audio
+.mat audio 
+.mod audio 
+.mid audio
+.wav audio
+.aif audio 
+.mpa audio
+.bmw audio
+.bmp isobraj
+.png isobroj
+.jpg isobroaj
+.gif .tif isobroj
+.mpg .mp4 video
+.flv .avi video 
+.7z archive 
+.rar .zip archive 
+.set .dat prilojeniya
+.iso .bin .mdf .mds obraz diska 
+.sys systemnii fail
+.hlp spravka
+.eng slovar'
